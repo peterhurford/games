@@ -1,6 +1,16 @@
 ## Evil Marharaja
 
-**Evil Marharaja** is a social deduction game, similar in style to the commonly played Werewolf / Mafia.  However, Evil Marharaja aims to solve two key problems: (a) that the players who die early in Werewolf don't get to have any fun and (b) that the Werewolf game isn't that engaging with just a few people.
+**Evil Marharaja** is a social deduction game, similar in style to the commonly played Werewolf / Mafia.  However, Evil Marharaja aims to solve two key problems: (a) that the players who die early in Werewolf don't get to have any fun, (b) that the Werewolf game isn't that engaging with just a few people, and (c) that there must be a moderator character who doesn't get to play in the game.
+
+
+#### Requirements
+
+* 4-12 players
+
+* Enough role cards to mark roles for those players.
+
+* Enough separate spaces for there to be separate, private conversations in pairs that don't risk being overheard.
+
 
 #### The Characters
 

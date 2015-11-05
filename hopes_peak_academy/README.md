@@ -1,5 +1,7 @@
 ## Hope's Peak Academy
 
+_Created by Peter Hurford and Nick Theisen._
+
 **Hope's Peak Academy** is inspired by the anime [Danganronpa](https://en.wikipedia.org/wiki/Danganronpa).  It was created to improve upon Werewolf / Mafia by adding more viable information for players to go off of when figuring out who the Werewolves are.
 
 
